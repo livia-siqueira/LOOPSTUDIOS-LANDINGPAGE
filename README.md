@@ -6,7 +6,7 @@ It was developed with reactjs, typescript and styled-components.
 I'm a front-end developer, currently doing an internship at Luby Software.
 
 # Screenshots
-<img src="./public/images/readme/localhost_3000_ (7).png" width="50px">
+<img src="./public/images/readme/localhost_3000_ (7).png" width="350px">
 <img src="./public/images/readme/localhost_3000_ (5).png">
 
 
