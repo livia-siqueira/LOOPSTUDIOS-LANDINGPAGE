@@ -7,7 +7,7 @@ I'm a front-end developer, currently doing an internship at Luby Software.
 
 # Screenshots
 <img src="./public/images/readme/localhost_3000_ (7).png">
-<img src="./public/images/readme/localhost_3000_ (8).png">
+<img src="./public/images/readme/localhost_3000_ (5).png">
 
 
 
